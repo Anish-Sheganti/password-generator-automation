@@ -28,6 +28,9 @@ jobs:
       run: |
         pytest --html=report.html
 
+    - name: List files after tests
+      run: dir
+
     - name: Upload HTML report
       uses: actions/upload-artifact@v3
       with:
