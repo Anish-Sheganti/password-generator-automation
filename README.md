@@ -1,4 +1,4 @@
-﻿# Password Generator Automation 🔐
+# Password Generator Automation 🔐
 
 This project automates the testing of a password generator website using Selenium and Pytest.
 
