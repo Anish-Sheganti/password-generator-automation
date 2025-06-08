@@ -44,10 +44,3 @@ Run tests:
 pytest tests/ --html=report.html
 
 
-🛠 Tech Stack
-
-Python
-
-Selenium
-
-Pytest
